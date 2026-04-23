@@ -1,5 +1,7 @@
 install.packages("usethis")
 usethis::git_sitrep()
 library(usethis)
-usethis::use_git()
+use_git()
 usethis::use_github()
+
+###
