@@ -1,3 +1,5 @@
+library(usethis)
+use_git()
 ---
   title: "Assignment 1 ESM 262: Quarto Data Analysis in the Southern California Sierra"
 author: "Lauren Chetley & Kalena Sapp"
