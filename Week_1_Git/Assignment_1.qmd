@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Assignment 1 ESM 262: Quarto Data Analysis in the Southern California Sierra"
 author: "Lauren Chetley & Kalena Sapp"
@@ -12,6 +9,7 @@ execute:
   warning: false
   message: false
 ---
+
 ## Analysis 1: Correlation between Water Availability (Precip) and Net Primary Productivity (NPP)
 
 Motivation The analysis looks at the correlation between annual total precipitation and plant net primary productivity. We wanted to determine whether precipitation is a significant driver of plant growth, using a linear regression model.
