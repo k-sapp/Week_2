@@ -93,7 +93,7 @@ Change this
 commit working?
   
 How about now?
-  
+#git revert head -# or commit ID (HSA#)
 
 
                   
