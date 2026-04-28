@@ -10,15 +10,20 @@ da_ting
 #branching allows you to create seperate version of code without affecting main version
 #can later merge branch into main
 
-<<<<<<< HEAD
 #script conflict attempt
 
 #git config pull.rebase false  # merge
-=======
 #attempting to create a conflict 
->>>>>>> 03252234d75265b07bf7064cb9b1bb61031dbf6b
+
+
 
 #ok another attempt???
 
 #how bout dis
+
+
+#ok attempting?????
+
+
+
 
