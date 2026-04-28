@@ -11,3 +11,5 @@ da_ting
 #can later merge branch into main
 
 #script conflict attempt
+
+#git config pull.rebase false  # merge
