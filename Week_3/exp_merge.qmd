@@ -5,8 +5,8 @@ editor: visual
 ---
 
 ## Quarto
-Experimental data analysis 
-to try and merge
+
+Experimental data analysis to try and merge
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
