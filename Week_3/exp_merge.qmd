@@ -5,8 +5,13 @@ editor: visual
 ---
 
 ## Quarto
+<<<<<<< HEAD
 
 Experimental data analysis to try and merge
+=======
+Experimental data analysis 
+to try and merge
+>>>>>>> 152e63a4b4eb0c968b2f86ee95e050c3afb2af4e
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
